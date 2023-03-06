@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: verdana;
+  text-decoration:none;
+}
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+ul {
+  color: red;
+  text-align: center;
+  font-size: 35px;
+  list-style-type:none;
+}
+
+li{
+    margin-bottom: 30px;
+  }
+
+a:link {
+    text-decoration: none;
+    color: rgb(120, 0, 120);
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: rgb(120, 0, 120);
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color:rgb(255, 150, 20);
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
