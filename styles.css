@@ -10,6 +10,10 @@ h1 {
   margin-bottom: 100px;
   margin-top: 50px;
 }
+h2 {
+  color:rgb(255, 150, 20);
+   font-size: 42px;
+}
 ul {
   color: red;
   text-align: center;
